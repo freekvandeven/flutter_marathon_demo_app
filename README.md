@@ -1,16 +1,9 @@
 # flutter_marathon_app
 
-A new Flutter project.
+A Flutter Marathon Demo App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a demo and based on a dribble challenge that i tried to imitate in Flutter.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Dribble: Marathon Race sketch](https://dribbble.com/shots/10000791-Marathon-race-App)

@@ -74,6 +74,15 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_widgets_library:
+    dependency: "direct dev"
+    description:
+      path: "."
+      ref: develop
+      resolved-ref: "3dda9ddf84baf40b35bdd7139ee7cede33f850c2"
+      url: "https://github.com/freekvandeven/flutter_widgets_library.git"
+    source: git
+    version: "0.0.1"
   lints:
     dependency: transitive
     description:
@@ -109,6 +118,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.8.1"
+  rotating_dial_widget:
+    dependency: "direct dev"
+    description:
+      path: "."
+      ref: develop
+      resolved-ref: bb025c525f6a4488a8bcfbf6d038376d3c33c919
+      url: "https://github.com/freekvandeven/flutter_rotating_dial.git"
+    source: git
+    version: "1.0.0"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -165,3 +183,4 @@ packages:
     version: "2.1.2"
 sdks:
   dart: ">=2.17.5 <3.0.0"
+  flutter: ">=1.17.0"
