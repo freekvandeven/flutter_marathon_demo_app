@@ -1,18 +1,13 @@
 name: flutter_marathon_app
 description: A Flutter Marathon Demo App.
 
+publish_to: none
 version: 1.0.0+1
 
 environment:
   sdk: ">=2.17.5 <3.0.0"
 dependencies:
   flutter:
-    sdk: flutter
-  
-  cupertino_icons: ^1.0.2
-
-dev_dependencies:
-  flutter_test:
     sdk: flutter
   flutter_widgets_library: # Helper package that includes my custom widgets.
     git:
@@ -22,8 +17,13 @@ dev_dependencies:
     git:
       url: https://github.com/freekvandeven/flutter_rotating_dial.git
       ref: develop
-  flutter_lints: ^2.0.0
+  cupertino_icons: ^1.0.2
+  device_preview: ^1.1.0
 
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
 
 flutter:
   uses-material-design: true
